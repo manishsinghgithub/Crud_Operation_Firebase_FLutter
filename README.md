@@ -6,6 +6,16 @@ A new Flutter project.
 
 This project is a demo app for crud for a Flutter application.
 
+The item screen look like this:
+![Screenshot_1659378213](https://user-images.githubusercontent.com/56499611/182219084-1909776c-dc63-4347-945f-f0e66fda60fe.png)
+
+And for add data:
+![Screenshot_1659378219](https://user-images.githubusercontent.com/56499611/182219117-fbaa4676-5654-447e-b7bf-e7a7c77b7cf8.png)
+
+
+Application Folder Structure:
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
